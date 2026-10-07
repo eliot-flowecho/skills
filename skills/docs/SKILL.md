@@ -2,6 +2,10 @@
 name: docs
 description: Create, update, remove, review, or build project documentation.
 argument-hint: "What documentation work should be done?"
+license: MIT
+metadata:
+  author: Eliot
+  org: FlowEcho
 disable-model-invocation: true
 ---
 

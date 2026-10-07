@@ -1,6 +1,10 @@
 ---
 name: documenting
 description: Create, update, remove, or review project documentation when explicitly requested, when current work changes something readers need to know, or when real user feedback reveals a possible documentation problem.
+license: MIT
+metadata:
+  author: Eliot
+  org: FlowEcho
 ---
 
 Work within the scope of the request or the event that caused this skill to be
